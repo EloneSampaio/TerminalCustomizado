@@ -1,0 +1,26 @@
+[
+    {
+    "nome": "Otavio",
+    "categoria": "cachorro",
+    "peso": 10.5,
+    "idade": 3,
+    "raca": "vira-lata",
+    "responsavel": "João"
+  },
+      {
+    "nome": "Benguelense",
+    "categoria": "cachorro",
+    "peso": 11.5,
+    "idade": 3,
+    "raca": "vira-lata",
+    "responsavel": "João"
+  },
+        {
+    "nome": "Sabrina",
+    "categoria": "cachorro",
+    "peso": 12.5,
+    "idade": 3,
+    "raca": "vira-lata",
+    "responsavel": "João"
+  }
+]
